@@ -20,9 +20,7 @@
             <div class="timeline-content">
                 <h3>Algemene bevinding tijdens de Minor Smart Industry</h3>
                 <br/>
-
-                <p>
-                    
+                <p>   
                     Als gedreven student bedrijfskunde die de minor Smart Industry succesvol heeft gevolgd, kijk ik met plezier terug op mijn leerervaringen. 
                     Deze minor heeft mijn kennis en vaardigheden naar een hoger niveau getild en heeft me goed voorbereid op de uitdagingen van de hedendaagse industrie. 
                     Ik ben niet alleen breder geïnformeerd, maar ik heb ook het gevoel dat ik mijn gestelde leerdoelen heb weten te bereiken.
@@ -47,12 +45,10 @@ Leerdoel 2: Mezelf verdiepen in vakgebieden waar ik niet bekend mee ben.
 </ul>
 <ul>
 Leerdoel 3: Andere helpen met onderwerpen waar ik zelf veel vanaf weet. 
-</ul> 
-                    
+</ul>                 
                 </p>
             </div>
         </div>
-
         <div class="timeline-row">
             <div class="timeline-time">
                <small>Portfolio</small>
@@ -67,10 +63,7 @@ Mijn eigen pagina heb ik aangepast zonder externe hulp. Ik besloot op eigen init
 <br/><br/>
                 </p>
             </div>
-
         </div>
-
-
         <div class="timeline-row">
             <div class="timeline-time">
                <small>Project</small>
@@ -87,7 +80,6 @@ Ook Erik, de CEO van Oceanz, was een prettige opdrachtgever. Hij gaf ons de vrij
                 </p>
             </div>
         </div>
-
         <div class="timeline-row">
             <div class="timeline-time">
                <small>Competentie - 1</small>
@@ -104,14 +96,12 @@ Bovendien heb ik tijdens de kookworkshop mijn passie voor koken kunnen laten zie
 </p>
             </div>
         </div>
-
         <div class="timeline-row">
             <div class="timeline-time">
                <small>Competentie - 2</small>
                <video width="340" height="360" controls>
                 <source src="afbeeldingen/c62284ad-8ea1-4140-8521-9d758fce9b33.MP4" type="video/mp4"> 
                 <img src="afbeeldingen/gripper.JPG" width="550" height="400" >
-               
             </video>
             </div>
             <div class="timeline-content">
@@ -123,7 +113,6 @@ Daarnaast hebben we ook gebruikt van verschillende onderzoek modellen zoals het 
                 </p>
             </div>
         </div>
-
         <div class="timeline-row">
             <div class="timeline-time">
                <small>Competentie - 3</small>
@@ -138,9 +127,6 @@ Verder heb ik mij ingezet om mijn begrip van HTML en CSS te verdiepen, zoals eer
                 </p>
             </div>
         </div>
-
-
-
         <div class="timeline-row">
             <div class="timeline-time">
                <small>Competentie - 4</small>
@@ -152,9 +138,6 @@ Verder heb ik mij ingezet om mijn begrip van HTML en CSS te verdiepen, zoals eer
                     In de afgelopen periode heb ik mijn volledige aandacht gericht op mijn persoonlijke leerdoelen. Deze doelen sluiten goed aan bij de competenties van de minor. Ik ben ervan overtuigd dat ik gedurende deze periode vooruitgang heb geboekt en mezelf heb ontwikkeld op alle drie de leerdoelen.
 <br/><br/> 
 Zo heb ik voor het eerst kennis gemaakt met het bouwen van websites, het gebruik van solidworks, 3D printen en natuurlijk het coderen. Dit zijn allemaal dingen die mij nog niet eigen lagen en hebben mij aangenaam verast. Ook heb ik in delft de Robot cursus gevolgd en heb ik daar mijn kennis nog verder kunnen uitbreiden. Dit heeft ook weer een nieuwe positieve blik gegeven op het project dat we voor oceanz uitvoerde.
-
-
-
                 </p>
             </div>
         </div>
@@ -186,7 +169,6 @@ Daarnaast stond ik altijd voor vragen open en heb ik nog wekelijks contact gehad
                   </p>
             </div>
         </div>
-
         <div class="timeline-row">
             <div class="timeline-time">
                <small>Eindoordeel</small>
@@ -196,9 +178,7 @@ Daarnaast stond ik altijd voor vragen open en heb ik nog wekelijks contact gehad
                 <h3>Gegroeid collectief</h3>
                 <p>
                     Ik vind dat de Minor niet alleen heeft geholpen bij mijn persoonlijke groei, maar dat we als groep ook echt beter zijn geworden!
-
-                    Omdat we studenten met verschillende achtergronden en studierichtingen hadden, werkten we samen in groepen. Dat zorgde voor een leuke sfeer waarin we elkaar konden helpen en aanvullen. Hierdoor werden onze samenwerkingen sterker, en samen deden we het beter dan wanneer we individueel werkten.
-                    
+                    Omdat we studenten met verschillende achtergronden en studierichtingen hadden, werkten we samen in groepen. Dat zorgde voor een leuke sfeer waarin we elkaar konden helpen en aanvullen. Hierdoor werden onze samenwerkingen sterker, en samen deden we het beter dan wanneer we individueel werkten.     
                 </p>
             </div>
         </div>
@@ -206,18 +186,14 @@ Daarnaast stond ik altijd voor vragen open en heb ik nog wekelijks contact gehad
             <div class="timeline-time">
                <small>Video Plant bakje + eind pdf</small>
                <embed src="Hoofdverslag Oceanz.pdf" type="application/pdf" width="200" height="200">
-
             </div>
             <div class="timeline-content">
-                <h3>Video + pdf 
-                    
+                <h3>Video + pdf      
                 </h3>
-                <p>
-                    
+                <p>       
                 </p>
             </div>
         </div>
-
     </div>
     
 </body>
