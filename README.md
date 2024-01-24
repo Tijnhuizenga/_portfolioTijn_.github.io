@@ -14,8 +14,8 @@
         <div class="timeline-row">
             <div class="timeline-time">
                <small>Introductie</small>
-               <img src="afbeeldingen/introductieeg.jpeg" width="384" height="512" style="transform:rotate(0deg);">
-               <img src="afbeeldingen/intro ductie 2.jpg" width="384" height="395" style="transform:rotate(0deg);">
+               <img src="introductieeg.jpeg" width="384" height="512" style="transform:rotate(0deg);">
+               <img src="intro ductie 2.jpg" width="384" height="395" style="transform:rotate(0deg);">
             </div>
             <div class="timeline-content">
                 <h3>Algemene bevinding tijdens de Minor Smart Industry</h3>
