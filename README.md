@@ -52,7 +52,7 @@ Leerdoel 3: Andere helpen met onderwerpen waar ik zelf veel vanaf weet.
         <div class="timeline-row">
             <div class="timeline-time">
                <small>Portfolio</small>
-               <img src="afbeeldingen/html.jpeg" width="300" height="220" ><img src="afbeeldingen/Scherm­afbeelding 2024-01-13 om 14.18.21.png" width="300" height="220" >
+               <img src="html.jpeg" width="300" height="220" ><img src="afbeeldingen/Scherm­afbeelding 2024-01-13 om 14.18.21.png" width="300" height="220" >
             </div>
             <div class="timeline-content">
                 <h3>HTML & CSS</h3>
@@ -67,7 +67,7 @@ Mijn eigen pagina heb ik aangepast zonder externe hulp. Ik besloot op eigen init
         <div class="timeline-row">
             <div class="timeline-time">
                <small>Project</small>
-               <img src="afbeeldingen/wij bij oceanz.gif" width="520" height="350" >
+               <img src="wij bij oceanz.gif" width="520" height="350" >
             </div>
             <div class="timeline-content">
                 <h3>Project Oceanz3D</h3>
@@ -83,7 +83,7 @@ Ook Erik, de CEO van Oceanz, was een prettige opdrachtgever. Hij gaf ons de vrij
         <div class="timeline-row">
             <div class="timeline-time">
                <small>Competentie - 1</small>
-               <img src="afbeeldingen/koken groep.JPG" width="550" height="400" >
+               <img src="koken groep.JPG" width="550" height="400" >
             </div>
             <div class="timeline-content">
                 <h3>Toont initiatief & betrokkenheid</h3>
@@ -100,8 +100,8 @@ Bovendien heb ik tijdens de kookworkshop mijn passie voor koken kunnen laten zie
             <div class="timeline-time">
                <small>Competentie - 2</small>
                <video width="340" height="360" controls>
-                <source src="afbeeldingen/c62284ad-8ea1-4140-8521-9d758fce9b33.MP4" type="video/mp4"> 
-                <img src="afbeeldingen/gripper.JPG" width="550" height="400" >
+                <source src="c62284ad-8ea1-4140-8521-9d758fce9b33.MP4" type="video/mp4"> 
+                <img src="gripper.JPG" width="550" height="400" >
             </video>
             </div>
             <div class="timeline-content">
@@ -116,7 +116,7 @@ Daarnaast hebben we ook gebruikt van verschillende onderzoek modellen zoals het 
         <div class="timeline-row">
             <div class="timeline-time">
                <small>Competentie - 3</small>
-               <img src="afbeeldingen/verkennen.jpeg" width="300" height="250" ><img src="afbeeldingen/nieuwwww.jpeg" width="300" height="250" >
+               <img src="verkennen.jpeg" width="300" height="250" ><img src="afbeeldingen/nieuwwww.jpeg" width="300" height="250" >
             </div>
             <div class="timeline-content">
                 <h3>Verkent nieuw vakgebied</h3>
@@ -130,7 +130,7 @@ Verder heb ik mij ingezet om mijn begrip van HTML en CSS te verdiepen, zoals eer
         <div class="timeline-row">
             <div class="timeline-time">
                <small>Competentie - 4</small>
-               <img src="afbeeldingen/ik met cobot.JPG" width="450" height="350">
+               <img src="ik met cobot.JPG" width="450" height="350">
             </div>
             <div class="timeline-content">
                 <h3>Bezig met persoonlijke groei</h3>
@@ -144,7 +144,7 @@ Zo heb ik voor het eerst kennis gemaakt met het bouwen van websites, het gebruik
         <div class="timeline-row">
             <div class="timeline-time">
                <small>Competentie - 5</small>
-               <img src="afbeeldingen/Scherm­afbeelding 2024-01-13 om 14.36.32.png" width="300" height="250" ><img src="afbeeldingen/Scherm­afbeelding 2024-01-13 om 14.36.22.png" width="300" height="250" >
+               <img src="Scherm­afbeelding 2024-01-13 om 14.36.32.png" width="300" height="250" ><img src="Scherm­afbeelding 2024-01-13 om 14.36.22.png" width="300" height="250" >
             </div>
             <div class="timeline-content">
                 <h3>Gebruikt feedback en zelfreflectie om te leren</h3>
@@ -158,7 +158,7 @@ Zo heb ik voor het eerst kennis gemaakt met het bouwen van websites, het gebruik
         <div class="timeline-row">
             <div class="timeline-time">
                <small>Competentie - 6</small>
-               <img src="afbeeldingen/Scherm­afbeelding 2024-01-13 om 14.47.38.png" width="610" height="320" >
+               <img src="Scherm­afbeelding 2024-01-13 om 14.47.38.png" width="610" height="320" >
             </div>
             <div class="timeline-content">
                 <h3>Helpt actief anderen groeien</h3>
@@ -172,7 +172,7 @@ Daarnaast stond ik altijd voor vragen open en heb ik nog wekelijks contact gehad
         <div class="timeline-row">
             <div class="timeline-time">
                <small>Eindoordeel</small>
-               <img src="afbeeldingen/Unknown.jpeg" width="350" height="240" >
+               <img src="Unknown.jpeg" width="350" height="240" >
             </div>
             <div class="timeline-content">
                 <h3>Gegroeid collectief</h3>
