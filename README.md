@@ -52,7 +52,7 @@ Leerdoel 3: Andere helpen met onderwerpen waar ik zelf veel vanaf weet.
         <div class="timeline-row">
             <div class="timeline-time">
                <small>Portfolio</small>
-               <img src="html.jpeg" width="300" height="220" ><img src="afbeeldingen/Scherm­afbeelding 2024-01-13 om 14.18.21.png" width="300" height="220" >
+               <img src="html.jpeg" width="300" height="220" ><img src="Scherm­afbeelding 2024-01-13 om 14.18.21.png" width="300" height="220" >
             </div>
             <div class="timeline-content">
                 <h3>HTML & CSS</h3>
@@ -116,7 +116,7 @@ Daarnaast hebben we ook gebruikt van verschillende onderzoek modellen zoals het 
         <div class="timeline-row">
             <div class="timeline-time">
                <small>Competentie - 3</small>
-               <img src="verkennen.jpeg" width="300" height="250" ><img src="afbeeldingen/nieuwwww.jpeg" width="300" height="250" >
+               <img src="verkennen.jpeg" width="300" height="250" ><img src="nieuwwww.jpeg" width="300" height="250" >
             </div>
             <div class="timeline-content">
                 <h3>Verkent nieuw vakgebied</h3>
